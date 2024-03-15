@@ -6,6 +6,7 @@ function Contact() {
     <div>
       Contact
       <Link to={'/help'}> Help su </Link>
+      <h1>hello</h1>
     </div>
   )
 }
